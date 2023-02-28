@@ -7,8 +7,8 @@
 - ### *My alma mater is BMSTU* :office:
 - ### *I'm junior developer*
 
-### My Stack
-:fire: :
+### My Stack:
+:fire: :fire: :fire:
 ````
 - C/C++17(stl, boost, socket)
 - Python(Django, PostgreSQL, Request)

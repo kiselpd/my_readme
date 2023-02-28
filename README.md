@@ -18,4 +18,3 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiselpd&theme=blond)](https://git.io/streak-stats)
-

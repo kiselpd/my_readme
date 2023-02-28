@@ -14,6 +14,9 @@
 - Git
 - SQL
 ````
+![download](https://user-images.githubusercontent.com/91218284/221818188-37bb3b2d-b6f8-425d-9a3c-4c89b7578c3b.png)
+
+
 ### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiselpd&theme=blond)](https://git.io/streak-stats)

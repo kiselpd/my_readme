@@ -8,7 +8,7 @@
 - ### *I'm junior developer*
 
 
-### :fire: My Stats :
+### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/?user=kiselpd
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiselpd&theme=dark&background=000000)](https://git.io/streak-stats)
 
